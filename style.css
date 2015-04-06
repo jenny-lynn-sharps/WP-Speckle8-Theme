@@ -774,7 +774,7 @@ COMMENT STYLES
 /******************************************************************
 COMMENT FORM STYLES
 ******************************************************************/
-
+.help-block:empty { display: none;}
 .respond-form { margin: 1.5em 20px; padding-bottom: 2.2em; }
 	#comment-form-title { margin: 0 0 1.1em; }
 	
