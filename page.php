@@ -13,8 +13,7 @@
 						<header>
 							
 							<h1 class="page-title" itemprop="headline"><?php the_title(); ?></h1>
-							
-							<p class="meta"><?php _e("Posted", "bonestheme"); ?> <data itemprop="datePublished" value="<?php echo the_time('Y-m-j'); ?>"><?php the_time('F jS, Y'); ?></data> <?php _e("by", "bonestheme"); ?> <?php the_author_posts_link(); ?>.</p>
+
 						
 						</header> <!-- end article header -->
 					

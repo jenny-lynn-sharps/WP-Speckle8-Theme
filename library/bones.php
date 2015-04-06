@@ -98,7 +98,7 @@ function bones_main_nav() {
     	array( 
     		'menu' => 'main_nav', /* menu name */
     		'theme_location' => 'main_nav', /* where in the theme it's assigned */
-    		'container_class' => 'clearfix', /* container class */
+    		'container_class' => '', /* container class */
     		'fallback_cb' => 'bones_main_nav_fallback' /* menu fallback */
     	)
     );

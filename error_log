@@ -1,0 +1,4 @@
+[24-Aug-2013 10:30:11 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/andyton1/public_html/jennysharps/wp-content/themes/speckle8/index.php on line 1
+[31-Jan-2014 20:07:48 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/andyton1/public_html/jennysharps/wp-content/themes/speckle8/index.php on line 1
+[15-Mar-2014 05:05:39 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/andyton1/public_html/jennysharps/wp-content/themes/speckle8/index.php on line 1
+[09-Aug-2014 12:10:22 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/andyton1/public_html/jennysharps/wp-content/themes/speckle8/index.php on line 1
