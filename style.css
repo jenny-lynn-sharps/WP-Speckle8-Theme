@@ -197,12 +197,12 @@ header[role=banner] {
 }
 	header[role=banner] .h1 {
 		font-family: 'Mrs Saint Delafield', 'FaberSansPro', sans-serif;
-		font-size: 3.75em;
+		font-size: 4em;
 		background: transparent;
 		line-height: 1;
 	}
 	header[role=banner] span.description {
-		font-size: .22em;
+		font-size: .2em;
 		display: block;
 		margin-top: -14px;
 		margin-right: -62px;
@@ -688,12 +688,12 @@ header[role=banner] {
 NAVIGATION STYLES
 *********************/
 header[role=banner] .h1 {
-		font-size: 3.75em;
+		font-size: 4em;
 }
 		
 nav[role=navigation]  {
 	float: right;
-	width: 60%;
+	width: 55%;
 	margin-bottom: 0;
 }
 	nav[role=navigation] ul {
